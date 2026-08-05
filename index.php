@@ -6,6 +6,6 @@
     <title>Pagina inicial</title>
 </head>
 <body>
-    
+    <h1> Bem vindo ao sistema </h1>
 </body>
 </html>
